@@ -1,0 +1,26 @@
+#insertHolder{
+  padding: 0;
+  width: 60%;
+  height: 4vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+input{
+  height: 3.3vh;
+  width: 15%;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  border-radius: 10px;
+  border: none;
+}
+
+button{
+  height: 100%;
+  width: 15%;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  border-radius: 10px;
+  border: none;
+}
