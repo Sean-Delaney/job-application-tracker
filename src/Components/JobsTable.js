@@ -10,6 +10,11 @@ const JobsTable = () => {
           <th>Company</th>
           <th>Link</th>
         </tr>
+        <tr>
+          <td>Web designer</td>
+          <td>Schneider</td>
+          <td>www.google.com</td>
+        </tr>
       </table>
     </div>
   )

@@ -8,10 +8,26 @@
 
 #jobsTable{
   width: 60%;
-  background-color: blue;
+}
+
+tr{
+  border: 10px solid black;
 }
 
 th{
   height: 4vh;
   font-size: larger;
+}
+
+td{
+  height: 2vh;
+}
+
+th, td{
+  border: 1px solid black;
+  text-align: center;
+}
+
+tr{
+  border-collapse: collapse;
 }
